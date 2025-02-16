@@ -12,18 +12,12 @@ https://github.com/malja1500/news-extension
 /chrome://extensions
 ```
 
-3 - run the project
+3 - Turn on the Developer Mode option
 
-```bash
-npm run dev
-```
-
-4 - Turn on the Developer Mode option
-
-5 -Click on Load Unpacked and select the folder in the address below
+4 -Click on Load Unpacked and select the folder in the address below
 
 ```bash
 news-extension\public
 ```
 
-6 - Now you can use this extension
+5 - Now you can use this extension
