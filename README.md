@@ -1,8 +1,29 @@
-# React + Vite
+## Installation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1 - clone this repo
 
-Currently, two official plugins are available:
+```bash
+https://github.com/malja1500/news-extension
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2 - Search this address in Google Chrome
+
+```bash
+/chrome://extensions
+```
+
+3 - run the project
+
+```bash
+npm run dev
+```
+
+4 - Turn on the Developer Mode option
+
+5 -Click on Load Unpacked and select the folder in the address below
+
+```bash
+news-extension\public
+```
+
+6 - Now you can use this extension
