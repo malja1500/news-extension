@@ -14,7 +14,7 @@ https://github.com/malja1500/news-extension
 
 3 - Turn on the Developer Mode option
 
-4 -Click on Load Unpacked and select the folder in the address below
+4 -Click on Load Unpacked and select the extension folder in the address below
 
 ```bash
 news-extension\public
